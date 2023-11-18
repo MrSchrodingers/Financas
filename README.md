@@ -14,5 +14,5 @@ Por fim é realizado ajustes para previsão dos dados macroeconômicos de intere
 - Redes Neurais: Rede neural recorrente (RNN) - Gated Recurrent Unit (GRU)
 Onde foram utilizadas as bibliotecas Sklearn, Statsmodels, TensorFlow, Keras e SciKeras (Integração Scikit-Learn e TensorFlow).
 
-Pretende-se, agora, continnuar as análises com a mesma metodologia para os índices microeconômicos, índices fundamentalistas e cotações.
+Pretende-se, agora, continuar as análises com a mesma metodologia para os índices microeconômicos, índices fundamentalistas e cotações.
 ![MIT-Neural-Networks-SL](https://github.com/MrSchrodingers/Financas/assets/69037408/aadb6526-1605-4c13-9e66-23670a14df35)
