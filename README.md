@@ -1,4 +1,4 @@
-# Financas
+# Projeto - Finanças
 
 Projeto para aprendizado e utilização de Machine Learning, Redes Neurais e Tratamento de Dados.
 A Partir dos dados fornecidos pelo Sistema de Gerenciamento de Séries do Banco Central (SGS-BC), são feitas as requisições de dados macroeconômicos do País. Assim, é feito o tratemento e análise dos dados como:
